@@ -352,6 +352,10 @@ footer{
   justify-content: flex-start;
 }
 
+.self-portraits{
+  display:none;
+}
+
 /* REMINDER: Design for MOBILE first */
 @media only screen and (min-width: 1124px) {
 
